@@ -1,0 +1,8 @@
+nltk
+pandas
+numpy
+matplotlib
+gensim
+tqdm
+ipykernel
+scikit-learn
