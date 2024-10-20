@@ -22,15 +22,12 @@ This project involves detecting spam messages using a custom NLP library, integr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Dirdh2011/ham-and-spam-.git
     ```
 
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
-    ```
-
-
     ```
 
 ## Project Structure
